@@ -6,3 +6,6 @@ https://github.com/dotnet/machinelearning-samples/tree/main/samples/csharp/getti
 
 ## YouTube
 You can view this presentation here on YouTube: https://www.youtube.com/channel/UCyLZieUSKFGLBOibC7xB1zg/videos
+
+## Links
+- Practical ML.NET User Group: https://www.meetup.com/practical-ml-net-user-group/
